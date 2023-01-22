@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="Ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>css webpage</title>
+        <link rel="stylesheet" href="./homework.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="heading">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1>FIFA World Cup 2022</h1>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <hr>
+        </div>
+        <div class="about">
+            <h2 class="h2-head">What is the World Cup?</h2>
+            <p class="para">The FIFA World Cup, often simply called the World Cup, is an international association football competition contested by the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The tournament has been held every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War.</p>
+            <hr>
+        </div>
+        <div class="how-it-works">
+            <h2 class="h2-head">How does the World Cup work?</h2>
+            <p class="para">The format involves a qualification phase, which takes place over the preceding three years, to determine which teams qualify for the tournament phase. In the tournament phase, 32 teams compete for the title at venues within the host nation(s) over about a month. The host nation(s) automatically qualify to the group stage of the tournament.</p>
+            <hr>
+        </div>
+        <div class="how-it-went">
+            <h2 class="h2-head">How did the World Cup 2022 go?</h2>
+            <p class="para">Overall it was a very great world cup. The games were mostly entertaining with some pretty big upsets that would be explained in detail later. But to me one of the biggest reasons why this was so entertaining was because of what was at stake.<br>There were many aging fan-favorites who have not yet lifted the trophy and this world cup would likely be their last. Such fan-favorites inclued Lionel Messi of Argentina, Cristiano Ronaldo of Portugal, and Neymar Jr. of Brazil.<br> The world cup ended in a spectacular final of Argentina vs. France, and after a heated game played amazingly by both sides, Argentina prevailed in the penalty shootouts, winning 4-2.</p>
+            <img class="bracket" src="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-12/Argentina%202.jpg?itok=H2cUZHki" width="550" height="515" alt="world cup bracket">
+            <br>
+            <h3 class="h3-head">Major achievements in the 2022 World Cup:</h3>
+            <ul class="list">
+                <li>Qatar became the first host country to lose all of their matches.</li>
+                <li>Argentina's last world cup victory was in 1968.</li>
+                <li>Kylian Mbappé was the second person to score a hat-trick in the World Cup final, after Geoff Hurst in 1966.</li>
+                <li>Lionel Messi holds the title of most Man of the Match awards won in FIFA World Cup history at 8.</li>
+                <li>Cristiano Ronaldo was the first footballer to score at five World Cups</li>
+                <li>This was the first World Cup to be hosted in the Middle East.</li>
+                <li>This was the first World Cup to include female referees.</li>
+                <li>Morocco became the first African nation to advance to the semi-finals</li>
+                <li>Argentina vs. Netherlands had a record-breaking 18 yellow cards given.</li>
+                <li>Japan won a World Cup game with the lowest possession figure in World Cup history, at 17.7%</li>
+            </ul>
+            <div class="placeholder breaks">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+            </div>
+            <hr>
+        </div>
+        <div class="ending">
+            <h2 class="h2-head">How can I go to a World Cup match?</h2>
+            <p class="para">Unfortunately, the World Cup has ended and will not return for another 4 years. However, the 2026 World Cup will be hosted in Canada, Mexico, and the United States with stadiums scattered all over the country. If you would like to learn more about the World Cup, click <a href="https://www.fifa.com/tournaments/mens/worldcup" target="_blank">here.</a></p>
+            <hr>
+        </div>
+    </body>
+</html>
