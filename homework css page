@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: black;
+    color:white;
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+    color:gold;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/lusail1-1668702662.png);
+    background-size: 1909px;
+    
+    
+}
+
+.h2-head {
+    font-size: 40px;
+    text-align: center;
+}
+
+.para {
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color:rgba(255, 196, 0, 0.85);
+    color:white
+    
+}
+
+.bracket {
+    border: 4px solid rgb(255, 242, 0);
+    border-radius:8px;
+    float:right;
+
+}
+
+.h3-head {
+    font-size:30px;
+    color:antiquewhite
+}
+
+li {
+    font-size: 24px;
+}
+
+ul li:nth-last-of-type(2n+1) {
+    color:red
+}
+
